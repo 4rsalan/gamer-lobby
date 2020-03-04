@@ -1,9 +1,8 @@
 export class Player {
-    id: number
     name: String
     rank: number
     score: number
-    playTime: String
-    gamePlayed: String
+    time_played: String
+    game_played: String
     status: String
 }
